@@ -17,7 +17,7 @@ from Edgepedia (Edgepedia Community License 1.0).
 PolyForm Noncommercial License 1.0.0
 Full text: https://polyformproject.org/licenses/noncommercial/1.0.0
 
-Copyright (c) [YEAR] [YOUR NAME]
+Copyright (c) Nizzine, 2026
 
 ## Intended use
 
