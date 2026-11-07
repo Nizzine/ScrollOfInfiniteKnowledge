@@ -12,7 +12,7 @@ NOTICE.md for the required attribution and the list of changes.
 Third-party material keeps its own terms (see NOTICE.md), including facts taken
 from Edgepedia (Edgepedia Community License 1.0).
 
-## Code (index.html, convert_facts.py, pull_fact.py)
+## Code (index.html)
 
 PolyForm Noncommercial License 1.0.0
 Full text: https://polyformproject.org/licenses/noncommercial/1.0.0
